@@ -1,0 +1,2 @@
+# FundamentosPythonFicha1
+Exercícios
