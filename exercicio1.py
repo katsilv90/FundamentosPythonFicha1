@@ -1,3 +1,4 @@
+# exercício 1
 inteiro = int(input("Introduz um número inteiro. "))
 decimal = float(input("Introduz um número decimal. "))
 
